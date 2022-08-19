@@ -1,0 +1,133 @@
+body {
+    font-family: 'Poppins',
+        sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+section {
+    padding-bottom: 50px;
+}
+
+.main-container {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.on-mission-halfwidth {
+    width: 50%;
+    padding-left: 3%;
+}
+
+.on-mission-halfwidth img {
+    width: 85%;
+    margin-left: 10px
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(28, 201, 201);
+    padding: 10px 40px;
+    border-radius: 5%;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.focus {
+    border-image: linear-gradient(rgb(189, 55, 55), orange);
+    border-image-slice: 1;
+    border-left: 7px solid;
+    padding-left: 10px;
+    font-size: 30px;
+    border-radius: 5%;
+}
+
+span {
+    color: rgb(40, 207, 79);
+}
+
+.main-box {
+    width: 80%;
+    margin-left: 10%;
+
+}
+
+.main-box img {
+    width: 25%;
+}
+
+.box-item {
+    box-shadow: 15px 15px 40px gray;
+    width: 50%;
+    margin-left: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5%;
+    padding-bottom: 2%;
+    height: 500px;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.box-item img {
+    margin-top: 30px;
+}
+
+#mission {
+    background-color: rgb(78, 185, 185);
+}
+
+#vission {
+    background-color: aquamarine;
+}
+
+#goal {
+    background-color: rgb(174, 75, 177);
+}
+
+.sec-heading {
+    font-size: 50px;
+    color: rgb(32, 249, 61);
+    text-align: center;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.half-width img {
+    width: 80%;
+    margin-left: 40px;
+}
+
+.center {
+    margin-top: 60px;
+
+}
+
+.button {
+    padding-top: 5px;
+    padding-bottom: 35px;
+}
+
+.main-button {
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+footer {
+    background-color: aqua;
+    text-align: center;
+    padding: 5%;
+}
